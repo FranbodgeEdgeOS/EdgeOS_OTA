@@ -14,7 +14,7 @@
     ],
     "id": "edgeos-6163-zerolte",
     "os_patch_level": "2026-11",
-    "type": "UNOFFICIAL",
+    "type": "unofficial",
     "version": "6.16.3"
   }
 ]
