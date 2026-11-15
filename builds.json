@@ -3,10 +3,12 @@
     "datetime": 1794769200,
     "filename": "EdgeOS_6.16.3_zerolte.zip",
     "id": "edgeos-6163-zerolte",
+    "os_patch_level": "2026-11",
     "romtype": "UNOFFICIAL",
     "size": 1045190671,
     "sha256": "16772c6b8965f32b4e058615026a2f187ecff35095ae585cb707899718b4b352",
-    "url": "https://github.com",
+    "type": "UNOFFICIAL",
+    "url": "https://github.com/FranbodgeEdgeOS/EdgeOS_OTA/releases/download/6.16.3/EdgeOS_6.16.3_zerolte.zip",
     "version": "6.16.4"
   }
 ]
