@@ -8,8 +8,8 @@
         "os_patch_level": "2026-11-05",
         "os_sdk_level": 36,
         "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-        "sha256": "16772c6b8965f32b4e058615026a2f187ecff35095ae585cb707899718b4b352",
-        "size": 1045190671,
+        "sha256": "fd151713783d1b67ca508592d6cd93969787553ff1dba525a04fdebc1ff236a2",
+        "size": 1045191212,
         "type": "full",
         "url": "https://github.com/FranbodgeEdgeOS/EdgeOS_OTA/releases/download/6.16.3/EdgeOS_6.16.3_zerolte.zip"
       }
