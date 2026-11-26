@@ -1,22 +1,22 @@
 [
   {
-    "datetime": 1792156408,
+    "datetime": 1795651200,
     "files": [
       {
-        "filename": "EdgeOS_6.16.3_zerolte.zip",
-        "filepath": "/EdgeOS_6.16.3_zerolte.zip",
+        "filename": "EdgeOS_6.16.5_zerolte.zip",
+        "filepath": "/EdgeOS_6.16.5_zerolte.zip",
         "os_patch_level": "2026-11-05",
         "os_sdk_level": 36,
-        "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-        "sha256": "fd151713783d1b67ca508592d6cd93969787553ff1dba525a04fdebc1ff236a2",
-        "size": 1045191212,
+        "sha1": "REMPLACE_PAR_LE_SHA1",
+        "sha256": "30c10a4e7edb902d2f0262e0865d1997d8f2b28e907c8b4cce47a98b255f0071",
+        "size": 1484443313,
         "type": "full",
-        "url": "https://github.com/FranbodgeEdgeOS/EdgeOS_OTA/releases/download/6.16.3/EdgeOS_6.16.3_zerolte.zip"
+        "url": "https://github.com/FranbodgeEdgeOS/EdgeOS_OTA/releases/download/6.16.5/EdgeOS_6.16.5_zerolte.zip"
       }
     ],
-    "id": "edgeos-6163-zerolte",
+    "id": "edgeos-6165-zerolte",
     "os_patch_level": "2026-11-05",
     "type": "unofficial",
-    "version": "6.16.3"
+    "version": "6.16.5"
   }
 ]
