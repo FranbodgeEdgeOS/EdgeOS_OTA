@@ -11,12 +11,12 @@
         "sha256": "30c10a4e7edb902d2f0262e0865d1997d8f2b28e907c8b4cce47a98b255f0071",
         "size": 1484443313,
         "type": "full",
-        "url": "https://github.com/FranbodgeEdgeOS/EdgeOS_OTA/releases/download/6.16.5/EdgeOS_6.16.5_zerolte.zip"
+        "url": "https://github.com"
       }
     ],
     "id": "edgeos-6165-zerolte",
     "os_patch_level": "2026-11-05",
-    "type": "unofficial",
+    "type": "",
     "version": "6.16.5"
   }
 ]
